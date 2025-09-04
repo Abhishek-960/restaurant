@@ -21,7 +21,7 @@ https://resilient-semifreddo-4caae7.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# 🖼️ Screenshots (Optional)
+# 🖼️ Screenshots
 <img width="1917" height="919" alt="Screenshot 2025-09-04 233547" src="https://github.com/user-attachments/assets/567848ff-4721-4a96-99f4-8570ad666aac" />
 <img width="1919" height="916" alt="Screenshot 2025-09-04 233616" src="https://github.com/user-attachments/assets/82a5abbf-e19b-45d4-a86f-e7bceb913045" />
 
